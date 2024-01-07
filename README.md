@@ -1,0 +1,6 @@
+<h1 align="center">
+INVESTIGATION OF METHODS FOR TRACKER AND AD DETECTION ON WEB PAGES
+</h1>
+
+## Annotation
+This thesis explores techniques and tools for detecting trackers and advertisements on the web. The research tasks include conducting a comprehensive literature review, investigating data collection techniques, reviewing model evaluation methods, training machine learning models, evaluating their effectiveness, investigating the impact of different features, and performing a rolling forecast test. The literature review identified three approaches: URL analysis, URL and HTTP data analysis, and AdGraph. Data collection involved using proxies, crawlers, and Adblock Plus lists and constructing graphs from HTML pages for AdGraph. The model evaluation utilized traditional metrics like confusion matrix, learning curves, and ROC curves, with the addition of the rolling forecast test for long-term reliability. Results indicated that the model trained with the most optimal features exhibited superior performance, outperforming other models in accuracy and other metrics. This finding underscores the significance of identifying and utilizing the most relevant features for effective tracker and ad detection.
